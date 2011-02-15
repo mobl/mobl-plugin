@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.mobl_lang.feature_0.3.0.jar" id="org.mobl_lang.feature" version="0.3.0">
+   <feature url="features/org.mobl_lang.feature_0.3.5.2.jar" id="org.mobl_lang.feature" version="0.3.5.2">
       <category name="mobl"/>
    </feature>
    <category-def name="mobl" label="mobl"/>
